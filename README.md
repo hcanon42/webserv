@@ -1,4 +1,4 @@
-# webserv (thervieu/hcanon)
+# Webserv (thervieu/hcanon)
 
 (42 subject) Create a HTTP server from scratch!
 
@@ -18,7 +18,7 @@ Project is created with:
 
 ## Description
 
-The first aim of the project is getting to know how to use sockets in C and the functions associated (bind, listen, accept, select, recv, send...).\
+The first aim of the project is getting to know how to use sockets in C and the functions associated (bind(), listen(), accept(), select(), recv(), send()...).\
 The second one is learning what HTTP is and how it works. It also means to learn all about the syntax and conventions associated with HTTP: error codes, headers, responses, requests, etc...
 
 ## Installation
@@ -42,7 +42,7 @@ Specific to the project:
 
 ## Utility
 
-Very useful
+Very useful to understand the basics of socket communication and HTTP requests and responses. The focus was mainly on the backend part, so the front is a bit messy...
 
 ## Contributing
 
